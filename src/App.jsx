@@ -49,7 +49,7 @@ export default function App() {
             <span className="nav-light" />
             WORK IN PROGRESS
           </span>
-          <span className="nav-star">✳</span>
+          <span className="nav-star">✳︎</span>
         </div>
       </header>
 
@@ -107,7 +107,7 @@ export default function App() {
               </div>
 
               <div className="floating-sticker sticker-one">
-                <span className="sticker-spark">✳</span>
+                <span className="sticker-spark">✳︎</span>
                 <span>IN MOTION</span>
               </div>
 
@@ -136,7 +136,7 @@ export default function App() {
           <div className="ribbon-track">
             {Array.from({ length: 4 }).map((_, index) => (
               <span className="ribbon-group" key={index}>
-                GOOD THINGS AHEAD <b>✳</b> COMING SOON <b>↗</b>
+                GOOD THINGS AHEAD <b>✳︎</b> COMING SOON <b>↗</b>
               </span>
             ))}
           </div>
@@ -162,7 +162,7 @@ export default function App() {
 
             <div className="next-card">
               <div className="card-top">
-                <span>✳ MOOVIO POSTCARD</span>
+                <span>✳︎ MOOVIO POSTCARD</span>
                 <span>NO. 001</span>
               </div>
 
@@ -193,9 +193,9 @@ export default function App() {
 
         <section className="final-section">
           <div className="final-decoration" aria-hidden="true">
-            <span>✳</span>
+            <span>✳︎</span>
             <span>↗</span>
-            <span>✳</span>
+            <span>✳︎</span>
           </div>
 
           <div className="final-content">
